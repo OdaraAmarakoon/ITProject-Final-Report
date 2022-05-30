@@ -1,2 +1,4 @@
 # ITProject Final Report-Activity diagrams
- Final report diagrams of Examination Management System
+# School Managemen system
+# Final report diagrams of Examination Management System
+#
