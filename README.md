@@ -2,4 +2,8 @@
 # School Managemen system
 # Final report diagrams of Examination Management System
 
-# create activity diagram, usecase diagram, UI, UX
+# createed documents 
+# activity diagram 
+# usecase diagram
+# UI
+# UX
