@@ -7,5 +7,5 @@
 # Class diagram
 # activity diagram 
 # usecase diagram
-# UI
-# UX
+UI
+ UX
